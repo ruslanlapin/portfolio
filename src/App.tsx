@@ -11,6 +11,7 @@ function App() {
           Edit <code>src/App.tsx</code> and save to reload.
         </p>
         <h1>For portfolio</h1>
+        <p>I have been studying front-end development since January 2023</p>
         <a
           className="App-link"
           href="https://reactjs.org"
